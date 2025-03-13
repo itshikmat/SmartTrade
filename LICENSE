@@ -1,1 +1,35 @@
-PiOS Open Source License Content.
+Pi Open Source (PiOS) License
+Version 1.0 | Effective Date: 13/03/2025
+
+1. Overview
+The Pi Open Source (PiOS) License is designed to promote innovation, transparency, and decentralized development within the SmartTrade ecosystem. This license allows developers to use, modify, and distribute the SmartTrade project while ensuring compliance with fair-use policies and ecosystem guidelines.
+
+2. Grant of License
+Subject to the terms of this license, the SmartTrade project grants users a worldwide, royalty-free, non-exclusive license to:
+
+Use, modify, and distribute the SmartTrade source code.
+Contribute improvements, bug fixes, and feature enhancements.
+Deploy the software for personal or commercial use within the Pi Network ecosystem.
+3. Conditions of Use
+By using this software, you agree to:
+
+Attribute the Original Work: Any use or distribution of the code must include proper credit to the original developers of SmartTrade.
+Maintain Open Access: Any modifications or derivatives must also remain open-source under this same PiOS license.
+Ensure Fair & Ethical Use: The software must not be used for unlawful purposes, including fraud, financial crimes, or activities that violate the integrity of the Pi Network ecosystem.
+4. Restrictions
+You may not:
+
+Claim Ownership of the original SmartTrade software.
+Rebrand & Monetize without significant innovation and compliance with Pi Network policies.
+Use the Code Outside Pi Network without express permission from the original contributors.
+5. Liability Disclaimer
+This software is provided "as is" without any warranties or guarantees. The SmartTrade team shall not be liable for any damages, losses, or liabilities arising from the use of this software.
+
+6. Contributions & Governance
+Contributors must follow the CODE_OF_CONDUCT.md to ensure a respectful and collaborative environment.
+Any major modifications should be proposed through pull requests and community voting mechanisms.
+7. Termination of License
+Violation of any terms may result in immediate termination of rights under this license.
+
+8. Contact & Legal Inquiries
+For questions, contributions, or license clarifications, contact: [Your Contact Email/Website]
