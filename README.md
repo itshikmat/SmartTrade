@@ -80,35 +80,6 @@ SmartTrade generates revenue through:
 
 ---
 
-## 📖 API Documentation  
-
-Developers can integrate **SmartTrade APIs** into their platforms.  
-
-🔗 **Base URL:**  
-https://api.smarttrade.io/v1/
-
-
-### **Endpoints:**  
-📌 **1. Get User Profile**  
-```http
-GET /users/{user_id}
-{
-  "id": 123,
-  "username": "trader123",
-  "reputation": 95
-}
-{
-  "id": 123,
-  "username": "trader123",
-  "reputation": 95
-}
-📌 2. Create a Trade Listing
-POST /listings/create
-{
-  "title": "Selling 10 BTC",
-  "price": 45000,
-  "currency": "USD"
-}
 🤝 Partnerships
 We are actively seeking partnerships with:
 ✅ E-commerce Platforms
