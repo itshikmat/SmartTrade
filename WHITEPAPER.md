@@ -1,5 +1,3 @@
-SmartTrade Whitepaper
-
 Table of Contents
 
 Introduction
