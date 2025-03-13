@@ -82,6 +82,7 @@ SmartTrade generates revenue through:
 
 🤝 Partnerships
 We are actively seeking partnerships with:
+
 ✅ E-commerce Platforms
 ✅ Logistics & Supply Chain Providers
 ✅ Payment Gateways
