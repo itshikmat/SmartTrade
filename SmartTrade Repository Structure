@@ -1,0 +1,10 @@
+SmartTrade/
+│-- src/                     # Source code files
+│   ├── contracts/           # Smart contracts (if applicable)
+│   ├── backend/             # Backend code (Node.js/Python/etc.)
+│   ├── frontend/            # Frontend (React, Vue, etc.)
+│-- docs/                    # Documentation files
+│-- .gitignore               # Ignore unnecessary files
+│-- README.md                # Project overview
+│-- LICENSE                  # Open-source license (optional)
+│-- package.json             # If using Node.js
